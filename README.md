@@ -19,7 +19,7 @@ http://localhost:8000/process?a=3&b=8
 ## Monitor websocket using flower
 
 ```bash
-ws://localhost:8000/ws/task/a579b493-c977-4cfa-8a28-345eff5bc2d2
+http://localhost:5556
 ```
 
 ## Architecture
