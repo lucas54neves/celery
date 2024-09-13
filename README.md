@@ -16,7 +16,7 @@ docker-compose up --build
 http://localhost:8000/process?a=3&b=8
 ```
 
-## Monitor websocket using flower
+## Monitor websocket using Flower
 
 ```bash
 http://localhost:5556
